@@ -1,0 +1,29 @@
+{
+  "Saints": [
+    {
+      "id": 1,
+      "name": "Seiya",
+      "constellation": "Pegasus"
+    },
+    {
+      "id": 2,
+      "name": "Shiryu",
+      "constellation": "Dragon"
+    },
+    {
+      "id": 3,
+      "name": "Hyoga",
+      "constellation": "Swan"
+    },
+    {
+      "id": 4,
+      "name": "Shun",
+      "constellation": "Andromeda"
+    },
+    {
+      "id": 5,
+      "name": "Iki",
+      "constellation": "Phoenix"
+    }
+  ]
+}
